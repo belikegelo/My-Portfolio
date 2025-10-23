@@ -22,11 +22,12 @@ export const HeroSection = () => {
             <br />
             <span className="opacity-0 animate-fade-in-delay-3 inline-block">
               <ReactTyped
-                className="text-white text-2xl md:text-4xl mt-4"
+                className="text-primary text-2xl md:text-4xl mt-4"
                 strings={[
                   "a Full Stack Developer",
                   "a Mobile Developer",
                   "a Web Developer",
+                  "a Virtual Assistant",
                   "a WordPress Builder"
                 ]}
                 typeSpeed={60}
