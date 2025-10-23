@@ -32,7 +32,7 @@ const projects = [
   demoUrl: "https://pisba.quintincanaya.com/",
   githubUrl: "https://github.com/belikegelo/pisba",
 },
-
+ 
 ];
 
 export const ProjectsSection = () => {
